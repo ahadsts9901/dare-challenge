@@ -59,8 +59,10 @@ body .white{
     padding: 0.5em;
     text-decoration: none;
     border: 0em;
-    width: 6em;
+    width: 8em;
+    height: 3em;
     font-size: 1em;
+    margin-bottom: 1em;
 }
 
 .result {
@@ -74,9 +76,12 @@ body .white{
     align-items: center;
     color: #0248d2;
     margin: 0em;
-    padding: 2em;
+    padding: 1em;
     text-align: center;
     font-size: 1.2em;
+    border-left: 5px solid #0248d2;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
 }
 
 hr {
